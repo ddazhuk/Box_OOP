@@ -10,6 +10,7 @@ public class Main {
         two.weight=25;
         one.Vol();
         two.Vol();
+        one.Show();
 
 
     }

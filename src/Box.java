@@ -8,4 +8,7 @@ public class Box {
 
     }
 
+    public void Show(){
+        System.out.println("Good by!");
+    }
 }
